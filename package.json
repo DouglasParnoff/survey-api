@@ -1,0 +1,19 @@
+{
+  "name": "survey-api",
+  "version": "0.0.1",
+  "description": "backend of survey app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DouglasParnoff/survey-api.git"
+  },
+  "author": "Parnoff, Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DouglasParnoff/survey-api/issues"
+  },
+  "homepage": "https://github.com/DouglasParnoff/survey-api#readme"
+}
