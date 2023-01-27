@@ -4,7 +4,7 @@
   "description": "backend of survey app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/DouglasParnoff/survey-api#readme",
   "devDependencies": {
+    "@types/jest": "^29.4.0",
     "@types/node": "^18.11.18",
     "git-commit-msg-linter": "^4.5.0",
+    "jest": "^29.4.1",
+    "ts-jest": "^29.0.5",
     "typescript": "^4.9.4"
   }
 }
