@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/DouglasParnoff/survey-api/issues"
   },
-  "homepage": "https://github.com/DouglasParnoff/survey-api#readme"
+  "homepage": "https://github.com/DouglasParnoff/survey-api#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "git-commit-msg-linter": "^4.5.0",
+    "typescript": "^4.9.4"
+  }
 }
